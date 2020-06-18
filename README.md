@@ -1,7 +1,5 @@
 # Brugge
-This repository contains simulation files of the Brugge benchmark model for reservoir management.
-
-By downloading data from this repository you agree with the conditions specified below.
+This repository contains simulation files for a single model realization of the Brugge benchmark model for reservoir management, and additional static files needed to create a FlowNet version of the model. By downloading data from this repository you agree with the conditions specified below.
 
 # Data Use Agreement
 (c) 2008-2017 TNO, The Hague, the Netherlands. All copyrights and other intellectual property rights reserved.
