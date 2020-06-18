@@ -14,7 +14,7 @@ TNO does not assume responsibility or liability for any damage that might result
 
 We ask that you acknowledge TNO in any publications, presentations or reports that use the data set. The references for the summary paper from the original workshop and for the paper describing the extended data set are provided below: 
 
-Peters, E., Arts, R.J., Brouwer, G.K., Geel, C.R., Cullick, S., Lorentzen, R.J., Chen, Y., Dunlop, K.N.B., Vossepoel, F.C., Xu, R., Sarma, P., Alhutali, A.H., Reynolds, A.C. 2010. Results of the Brugge benchmark study for flooding optimisation and histyory matching. SPE Res Eval & Eng 13 (3): 391-405. SPE-119094-PA. doi: 10.2118/119094-PA.
+Peters, E., Arts, R.J., Brouwer, G.K., Geel, C.R., Cullick, S., Lorentzen, R.J., Chen, Y., Dunlop, K.N.B., Vossepoel, F.C., Xu, R., Sarma, P., Alhutali, A.H., Reynolds, A.C. (2010), Results of the Brugge benchmark study for flooding optimisation and histyory matching. SPE Res Eval & Eng 13 (3): 391-405. https://doi.org/10.2118/119094-PA.
 
 Peters, E., Chen, Y., Leeuwenburgh, O., Oliver, D.S. 2012. Extended Brugge benchmark case for histyory matching and water flooding optimization. Computers & Geosciences 50 (2013), p 16-24, CAGEO 2975. http://dx.doi.org/10.1016/j.cageo.2012.07.018.
 
